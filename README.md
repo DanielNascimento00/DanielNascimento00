@@ -4,7 +4,9 @@
 
 Também sou um entusiasta e mantedor de código aberto. aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteciam por meio do código aberto.<p/>
 
-<img align="right" alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="500" height="320" />
+<div>
+  <img align="right" alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="450" height="320" />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNascimento00&show_icons=true&theme=calm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNascimento00&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
