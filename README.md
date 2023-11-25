@@ -1,8 +1,8 @@
 ### Olá! me chamo Daniel Nascimento
 
-<p>Um apaixonado desenvolvedor web full stack autodidata residente no Brasil, minha paixão por software consiste em sonhar ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
+<p>Sou um desenvolvedor web full stack autodidata apaixonado, residente no Brasil. Minha paixão pelo software consiste em sonhar com ideias e transformá-las em realidade, com interfaces elegantes. Tenho muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
 
-Também sou um entusiasta e mantedor de código aberto. aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteciam por meio do código aberto.<p/>
+Também sou entusiasta e mantenedor de código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento que acontecem por meio do código aberto.<p/>
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="450" height="320" />
