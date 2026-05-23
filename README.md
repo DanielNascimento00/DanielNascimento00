@@ -4,9 +4,9 @@
 
 Também sou entusiasta e mantenedor de código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento que acontecem por meio do código aberto.<p/>
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="450" height="320" />
-</div>
+<p align="center">
+  <img alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="450" height="320" />
+</p>
 
 <table>
   <tr>
