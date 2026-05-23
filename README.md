@@ -8,5 +8,5 @@ Também sou entusiasta e mantenedor de código aberto. Aprendi muito com a comun
   <img align="right" alt="GIF" src="https://github.com/DanielNascimento00/DanielNascimento00/blob/main/code.gif" width="450" height="320" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNascimento00&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNascimento00&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-one-chi-72.vercel.app/api?username=DanielNascimento00&show_icons=true&theme=calm)
+[![Top Langs](https://github-readme-stats-one-chi-72.vercel.app/api/top-langs/?username=DanielNascimento00&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
